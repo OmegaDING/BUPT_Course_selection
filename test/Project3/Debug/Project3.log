@@ -1,0 +1,3 @@
+﻿  Project3.cpp
+C:\Users\DingKunYuan\Desktop\short_semester\test\Project3\Project3.cpp(404): warning C4715: “get_course_time_amount”: 不是所有的控件路径都返回值
+  Project3.vcxproj -> C:\Users\DingKunYuan\Desktop\short_semester\test\Project3\Debug\Project3.exe

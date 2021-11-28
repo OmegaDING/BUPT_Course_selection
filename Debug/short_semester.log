@@ -1,0 +1,5 @@
+﻿  short_semester.cpp
+C:\Users\DingKunYuan\Desktop\short_semester\short_semester.cpp(5402,49): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+C:\Users\DingKunYuan\Desktop\short_semester\short_semester.cpp(5469,49): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+C:\Users\DingKunYuan\Desktop\short_semester\short_semester.cpp(5537,49): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+  short_semester.vcxproj -> C:\Users\DingKunYuan\Desktop\short_semester\Debug\short_semester.exe
