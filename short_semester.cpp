@@ -206,7 +206,12 @@ int type_and_verify_info(int type,person& current_user);
 int current_year = 0, current_mounth = 0, current_day = 0, current_hour = 0, current_min = 0, current_second = 0;
 
 
-//学生选课管理系统
+// 学生选课管理系统
+// 2019级 - 电管 - 丁丁的玩具车队 - 小学期作业
+// 演示地址： https://www.bilibili.com/video/BV12Z4y1P7QQ?spm_id_from=333.999.0.0
+// WeChat：dky1251001066
+// GitHub：https://github.com/OmegaDING
+
 int main()
 {
 	start();

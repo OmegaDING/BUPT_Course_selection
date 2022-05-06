@@ -1,5 +1,11 @@
 #include "public.h"
 
+// 学生选课管理系统
+// 2019级 - 电管 - 丁丁的玩具车队 - 小学期作业
+// 演示地址： https://www.bilibili.com/video/BV12Z4y1P7QQ?spm_id_from=333.999.0.0
+// WeChat：dky1251001066
+// GitHub：https://github.com/OmegaDING
+
 //在已有学生数组中按学生名搜索学生并返回符合条件的学生数组
 students* search_students_in_course(students* stu_in, char* name,int& amount) {
 	students* stu_out;

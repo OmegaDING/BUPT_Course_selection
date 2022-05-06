@@ -1,5 +1,12 @@
 #include "public.h"
 #pragma warning(disable : 4996)
+
+// 学生选课管理系统
+// 2019级 - 电管 - 丁丁的玩具车队 - 小学期作业
+// 演示地址： https://www.bilibili.com/video/BV12Z4y1P7QQ?spm_id_from=333.999.0.0
+// WeChat：dky1251001066
+// GitHub：https://github.com/OmegaDING
+
 void get_current_time(int& year, int& mounth, int& day, int& hour, int& min,int& second) {
 
 
